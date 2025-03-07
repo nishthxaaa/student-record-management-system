@@ -15,7 +15,7 @@ A minimalist desktop app  to managae students record. **record are saved directl
 <img src="screenshots/AdminFunction.jpeg">
 
 ## `Viewing Students Records`
-<img src="screenshots/ViewData.jpef">
+<img src="screenshots/ViewData.jpeg">
 
 ## ``Records Saved in Excel File``
 <img src="screenshots/ViewExcel.jpeg">
