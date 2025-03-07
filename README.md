@@ -9,7 +9,7 @@ A minimalist desktop app  to managae students record. **record are saved directl
 
 >Student account can only view the data.
 ## `Login`
-<img src="C:\Users\nisht\OneDrive\Desktop\Home.jpeg">
+<img src="ScreenShot/Home.JPG">
 
 ## `Logged in as Admin`
 <img src="ScreenShot/AdminFunction.JPG">
