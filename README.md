@@ -9,16 +9,16 @@ A minimalist desktop app  to managae students record. **record are saved directl
 
 >Student account can only view the data.
 ## `Login`
-<img src="ScreenShot/Home.JPG">
+<img src="screenshots/Home.JPG">
 
 ## `Logged in as Admin`
-<img src="ScreenShot/AdminFunction.JPG">
+<img src="screenshots/AdminFunction.JPG">
 
 ## `Viewing Students Records`
-<img src="ScreenShot/ViewData.JPG">
+<img src="screenshots/ViewData.JPG">
 
 ## ``Records Saved in Excel File``
-<img src="ScreenShot/ViewExcel.JPG">
+<img src="screenshots/ViewExcel.JPG">
 
 ### Running on Local machine
 
